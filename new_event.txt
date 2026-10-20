@@ -1,1 +1,1 @@
-Событие из ветки master
+Событие из master и conflict-demo
